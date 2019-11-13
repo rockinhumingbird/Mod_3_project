@@ -32,6 +32,6 @@ H1: The artist dancability for each region's favorite arists are not statistical
 
 We want to look at the following hypotheses:
 
-H0: People listen to more dancable music more often.
+H0: Dancability has not effect on the number of streams a song receives. 
 
-H1: Dancability has not effect on the number of streams a song receives. 
+H1: People listen to more dancable music more often.
