@@ -48,9 +48,9 @@ Despite the fact that spotify has a majority of its users located in Europe, the
 Additionally the number of streams by continent shows us that North America eclipses other continents in terms of the number of streams observed.  
 
 ## Hypthoesis Test 2 
-![alt test](graphs/by_country.png)
+![alt test](graphs/danceability_artists.png)
 
-The result of our second hypothesis test show that there is not 
+The result of our second hypothesis test show that the most streamed artists in North America, Europe, and Latin America do have differnet danceability ratings 
 
 ## Hypthoesis Test 3
 ![alt test](graphs/heatmap_music-taste.png)
