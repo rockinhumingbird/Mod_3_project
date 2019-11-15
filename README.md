@@ -27,11 +27,38 @@ H0: All regions of the world have equal dancability in their most listend to art
 H1: The artist dancability for each region's favorite arists are not statistically similar.
 
 ## 3. Do people want to listen to artists that make more dancable music?
---- Many artists may have not interest in the dancability of their music. But as a music festival, do you want to book artists you dont make danceable music?
+--- Many artists may have not interest in the dancability of their music. But as a music festival, do you want to book artists you don't make danceable music?
 
 
 We want to look at the following hypotheses:
 
 H0: Dancability has not effect on the number of streams a song receives. 
 
-H1: People listen to more dancable music more often.
+H1: People listen to more dancable music more.
+
+# Conclusions
+
+## Hypothesis Test 1
+![alt test](graphs/by_country.png)
+
+Despite the fact that spotify has a majority of its users located in Europe, the vast majority of streams come from US. This disproves our null hyothessis that the means of each coutries streams are the same and confirms our alternate hypothesis that the streaming nubers are not the same fror each country.
+
+![alt test](graphs/by_continent.png)
+
+Additionally the number of streams by continent shows us that North America eclipses other continents in terms of the number of streams observed.  
+
+## Hypthoesis Test 2 
+![alt test](graphs/by_country.png)
+
+The result of our second hypothesis test show that there is not 
+
+## Hypthoesis Test 3
+![alt test](graphs/heatmap_music-taste.png)
+
+Our third hypothesis testing the correlation between the characteristsics of music and what makes the music successful revealed that danceability has an effect on the the number of streams a song receives. But the effect is actually significantly negatively correlated. Music that is more danceable is often listened to less than music that is not danceable to a 62% degree of certainty.   
+
+## Key Takeaways
+1. Cultural/Country Factor play a role in impacting streaming statistics. The US leads in the number of weekly streams compared with other regions despite Europe having a majority of spotify users.
+2. Latin America’s top tracks are more danceable compared with other continents.
+3. Loud songs with a high BPM, that are not necessarily danceabile are streamed the most. 
+
