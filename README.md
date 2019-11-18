@@ -1,4 +1,4 @@
-# Mod_3_project
+# Mod_3_project - Flatiron Data Science - Zoe Zhu & Garrett Keyes
 
 # Background
 
